@@ -1,5 +1,3 @@
-*.kra
-*.png
 *.kra~
 .vscode
 .venv
